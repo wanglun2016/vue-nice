@@ -1,2 +1,2 @@
 # vue-nice
-Never stop s
+Never stop
